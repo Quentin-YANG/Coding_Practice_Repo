@@ -1,8 +1,3 @@
-# hello-world
-GitHub project kickstarter
+# Coding Practice Repo
 
-Hi everyone,
-
-This is just a quick learning about how to use repository.
-I gonna creat this README file to see if it can be created or not.
-Good luck to me!
+This is the repo for coding practice, including some interesting and tricky coding problems with various programming languages. Here I'm planning to use README.md as the contents for different type of problems. And I'll keep updating to enrich my coding practice repo. Hope you enjoy& learn something here.
